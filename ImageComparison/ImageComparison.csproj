@@ -25,6 +25,7 @@
     <AssemblyOriginatorKeyFile>ImageComparison.snk</AssemblyOriginatorKeyFile>
     <Authors>Tom Austin, tomap, Jakob Farian Krarup</Authors>
     <PackageProjectUrl>https://github.com/tomaustin700/ImageComparison</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/tomaustin700/ImageComparison</RepositoryUrl>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
@@ -36,6 +37,6 @@
     <Compile Remove="ComInterop\_ImageTool.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="https:\github.com\tomaustin700\ImageComparison\blob\main\readme.md" />
+    <!--<None Include="https:\github.com\tomaustin700\ImageComparison\blob\main\readme.md" />-->
   </ItemGroup>
 </Project>

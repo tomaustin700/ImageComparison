@@ -29,6 +29,6 @@ jobs:
         run: dotnet pack -v normal -c Release --no-restore
 
       - name: Push to NuGet Feed
-        run: dotnet nuget push *.nupkg --source 'https://api.nuget.org/v3/index.json' --skip-duplicate --api-key ${{ secrets.NUGET_KEY }}
+        run: dotnet nuget push **/*.nupkg --source 'https://api.nuget.org/v3/index.json' --skip-duplicate --api-key ${{ secrets.NUGET_KEY }}
 
       
