@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace XnaFan.ImageComparison
+namespace ImageComparison
 {
     /// <summary>
     /// Helperclass which compares tuples with imagepath and grayscale based on the values in their grayscale array

@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Collections;
 
-namespace XnaFan.ImageComparison
+namespace ImageComparison
 {
     public static class ExtensionMethods
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace XnaFan.ImageComparison
+namespace ImageComparison
 {
     /// <summary>
     /// Helperclass for comparing arrays of equal length containing comparable items

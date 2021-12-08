@@ -7,7 +7,7 @@ using System.Text;
 // Use, alter and redistribute this code freely,
 // but please leave this comment :)
 
-namespace XnaFan.ImageComparison
+namespace ImageComparison
 {
 
     /// <summary>
