@@ -23,12 +23,14 @@
   </PropertyGroup>
   <PropertyGroup>
     <AssemblyOriginatorKeyFile>ImageComparison.snk</AssemblyOriginatorKeyFile>
-    <Authors>Tom Austin, tomap, Jakob Farian Krarup</Authors>
+    <Authors>Tom Austin, Thomas Piart, Jakob XnaFan Krarup</Authors>
     <PackageProjectUrl>https://github.com/tomaustin700/ImageComparison</PackageProjectUrl>
     <RepositoryUrl>https://github.com/tomaustin700/ImageComparison</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <Description>A set of .NET extension methods to get the difference between images and more...</Description>
     <PackageId>ImageComparison.Standard</PackageId>
+    <Version>1.0.1</Version>
+    <PackageTags>image comparison</PackageTags>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
