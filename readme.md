@@ -7,4 +7,6 @@ Here are the main differences:
 
 License is CPOL. See LICENSE file
 
+Nuget package can be found here: https://www.nuget.org/packages/ImageComparison.Standard/
+
 For documentation, please go to http://www.codeproject.com/Articles/374386/Simple-image-comparison-in-NET
